@@ -1,0 +1,89 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+ia_10001.jpg,3888,2592,autoricksaw,218,276,2234,2448
+ia_10001.jpg,3888,2592,autoricksaw,2650,280,3738,1604
+ia_10003.jpg,1800,1000,autoricksaw,564,14,1271,958
+ia_10005.jpg,1600,901,autoricksaw,434,126,1229,732
+ia_10007.jpg,1300,960,autoricksaw,74,179,1201,820
+ia_10008.jpg,1300,954,autoricksaw,256,71,1230,800
+ia_10009.jpg,1300,953,autoricksaw,131,52,1270,806
+ia_10010.jpg,960,1248,autoricksaw,117,162,872,958
+ia_10015.png,1000,1000,autoricksaw,109,173,879,817
+ia_10017.jpg,1200,800,autoricksaw,116,56,1133,748
+ia_10020.jpg,1120,800,autoricksaw,162,23,931,700
+ia_10024.jpg,1000,750,autoricksaw,68,81,973,713
+ia_10025.jpg,1024,675,autoricksaw,281,95,940,635
+ia_10025.jpg,1024,675,autoricksaw,5,141,270,330
+ia_10030.jpg,960,540,autoricksaw,70,2,917,529
+ia_10035.jpg,1160,380,autoricksaw,115,76,310,352
+ia_10035.jpg,1160,380,autoricksaw,311,34,542,344
+ia_10035.jpg,1160,380,autoricksaw,564,25,827,379
+ia_10035.jpg,1160,380,autoricksaw,932,30,1147,341
+ia_10036.jpg,730,547,autoricksaw,109,100,582,459
+ia_10039.jpg,736,491,autoricksaw,52,61,690,483
+ia_10043.jpg,700,415,autoricksaw,66,19,674,401
+ia_10045.jpg,520,500,autoricksaw,24,30,506,477
+ia_10047.jpg,500,500,autoricksaw,55,89,456,415
+ia_10048.jpg,670,369,autoricksaw,78,43,565,351
+ia_10049.jpg,640,374,autoricksaw,14,50,514,350
+images (1).jpg,349,145,car,34,2,308,138
+images (10).jpg,318,159,car,39,5,297,144
+images (11).jpg,318,159,car,18,8,300,149
+images (14).jpg,383,132,car,5,37,36,68
+images (14).jpg,383,132,car,44,35,73,72
+images (14).jpg,383,132,car,80,35,114,77
+images (14).jpg,383,132,car,270,39,348,93
+images (14).jpg,383,132,car,207,40,267,102
+images (15).jpg,284,178,car,10,7,278,160
+images (16).jpg,312,162,car,27,8,253,137
+images (17).jpg,243,208,car,8,60,146,147
+images (19).jpg,299,169,car,14,5,155,71
+images (19).jpg,299,169,car,176,7,287,61
+images (19).jpg,299,169,car,2,85,109,157
+images (19).jpg,299,169,car,127,86,296,165
+images (2).jpg,278,182,car,59,14,257,169
+images (21).jpg,299,169,car,15,57,195,145
+images (25).jpg,299,169,car,43,20,218,142
+images (26).jpg,299,169,car,88,22,266,137
+images (27).jpg,299,169,car,32,18,272,149
+images (28).jpg,299,169,car,41,58,255,154
+images (29).jpg,299,169,car,20,40,145,130
+images (3).jpg,289,175,car,6,22,277,163
+images (30).jpg,299,169,car,9,23,293,124
+images (31).jpg,299,169,car,118,12,275,123
+images (32).jpg,299,169,car,9,18,256,144
+images (36).jpg,287,176,car,3,8,282,167
+images (37).jpg,276,183,car,6,23,267,164
+images (38).jpg,276,183,car,17,31,251,169
+images (39).jpg,276,183,car,11,31,268,158
+images (42).jpg,276,183,car,6,52,151,161
+images (42).jpg,276,183,car,157,64,269,145
+images (44).jpg,276,183,car,17,22,267,156
+images (45).jpg,276,183,car,19,19,270,158
+images (46).jpg,276,183,car,29,47,251,159
+images (47).jpg,276,183,car,15,35,237,170
+images (48).jpg,276,183,car,18,40,269,159
+images (49).jpg,276,183,car,20,12,272,156
+images (52).jpg,276,183,car,4,80,125,147
+images (52).jpg,276,183,car,133,78,194,132
+images (52).jpg,276,183,car,199,77,272,144
+images (55).jpg,273,185,car,13,44,259,158
+images (62).jpg,363,139,car,142,24,353,126
+images (64).jpg,251,201,car,23,8,231,121
+images (64).jpg,251,201,car,20,125,153,185
+images (64).jpg,251,201,car,166,125,232,189
+images (69).jpg,285,177,car,45,43,243,154
+images (7).jpg,318,159,car,67,58,251,157
+images (70).jpg,285,177,car,11,74,57,117
+images (70).jpg,285,177,car,92,73,140,120
+images (70).jpg,285,177,car,146,60,281,145
+images (70).jpg,285,177,car,60,79,89,110
+images (76).jpg,256,197,car,34,32,255,178
+images (77).jpg,274,184,car,9,46,126,138
+images (77).jpg,274,184,car,142,51,262,146
+images (78).jpg,274,184,car,7,12,269,170
+images (80).jpg,277,182,car,42,26,256,146
+images (81).jpg,317,159,car,2,32,158,135
+images (81).jpg,317,159,car,167,36,312,124
+images (85).jpg,300,168,car,21,14,273,157
+images (93).jpg,300,168,car,18,75,145,143
+images (93).jpg,300,168,car,162,79,290,147
